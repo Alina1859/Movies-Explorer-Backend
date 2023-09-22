@@ -1,6 +1,6 @@
 const {
   MONGODB_URL = 'mongodb://127.0.0.1:27017/bitfilmsdb',
-  PORT = 3000,
+  PORT = 3002,
   NODE_ENV,
   JWT_SECRET,
   DATA_BASE,

@@ -1,15 +1,15 @@
 // Массив доменов, с которых разрешены кросс-доменные запросы
 const allowedCors = [
-  'https://api.diploma.movies.nomoredomains.xyz',
-  'http://api.diploma.movies.nomoredomains.xyz',
-  'https://diploma.movies.nomoredomains.xyz',
-  'http://diploma.movies.nomoredomains.xyz',
+  'https://api.movie-explorer.sertralina.tech',
+  'http://api.movie-explorer.sertralina.tech',
+  'https://movie-explorer.sertralina.tech',
+  'http://movie-explorer.sertralina.tech',
   'http://localhost:3000',
   'https://localhost:3000',
-  'http://localhost:3001',
-  'https://localhost:3001',
+  'http://localhost:3002',
+  'https://localhost:3002',
   'localhost:3000',
-  'localhost:3001',
+  'localhost:3002',
   'http://api.nomoreparties.co/beatfilm-movies',
   'https://api.nomoreparties.co/beatfilm-movies',
 ];
